@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @GeovannaFrascari
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-GeovannaFrascari/GeovannaFrascari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# DIO | Resumos Git e GitHub
+
+Repositório para armazrnar resumos sobre GIt e GitHub do curso Versionamento de códiogom Git e GitHub da [Digital Innovation One] (https://www.dio.me/).
+
+## 📚 Documentação
+- [Documentção Git](https://git-scm.com/doc)
+- [Documentação GitHub](https://docs.github.com)
+
+## 💻 Resumos das Aulas
+
+| Aulas | Resumos |
+|-------|--------|
+|Grvando alterações no repositório local | [Resumos]
+() |
+
+```
+git init
+```
+
+## 🔍 Referências
+- [Digital Innovation One]().
